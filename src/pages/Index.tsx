@@ -250,7 +250,7 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-8">
-              <h1 className='text-white text-xl font-bold'>话题社区等你分享</h1>
+              <h1 className='text-white text-xl font-bold'>话题社区分享</h1>
               <nav className="hidden md:flex items-center space-x-6">
                 <Button variant="ghost" className="text-gray-300 hover:text-white">
                   <Home className="h-4 w-4 mr-2" />
@@ -391,7 +391,7 @@ export default function Index() {
         <div className="grid grid-cols-4 gap-1">
           <Button variant="ghost" className="h-16 flex flex-col items-center justify-center text-gray-300">
             <Home className="h-5 w-5" />
-            <span className='text-xs mt-1'>home</span>
+            <span className="text-xs mt-1">首页</span>
           </Button>
           <Button variant="ghost" className="h-16 flex flex-col items-center justify-center text-gray-300">
             <Hash className="h-5 w-5" />

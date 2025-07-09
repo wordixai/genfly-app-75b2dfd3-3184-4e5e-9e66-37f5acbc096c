@@ -250,7 +250,7 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-8">
-              <h1 className='text-white text-xl font-bold'>话题社区分享</h1>
+              <h1 className='text-white text-xl font-bold'>话社区分享</h1>
               <nav className="hidden md:flex items-center space-x-6">
                 <Button variant="ghost" className="text-gray-300 hover:text-white">
                   <Home className="h-4 w-4 mr-2" />
